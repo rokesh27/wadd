@@ -26,7 +26,7 @@ SECRET_KEY = '&oepo_*l_%(=j^l*^_=)l%sod+t0wbfpg1qh%+)lav!3n(o4_y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','smilefoundations.herokuapp.com']
 
 
 # Application definition
